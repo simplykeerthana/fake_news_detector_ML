@@ -7,5 +7,5 @@ Key concepts explored in this project...
 2. Exploratoy data analysis and plot word-cloud
 3. Data cleaning: stop-words, remvoing punctuation and stop words, tokenizing
 4. create text corpus to feed the deep learnign model, RNNs and LSTM
-5. Build and traing the deep learning model
-6.
+5. Build and training the deep learning model
+6. Deploy the app as a Desktop App using python. 
